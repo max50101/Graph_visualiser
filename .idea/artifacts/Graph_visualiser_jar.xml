@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Graph visualiser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Graph_visualiser_jar</output-path>
+    <root id="archive" name="Graph visualiser.jar">
+      <element id="module-output" name="Graph visualiser" />
+    </root>
+  </artifact>
+</component>
